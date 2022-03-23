@@ -1,1 +1,1 @@
-This is one to one chatting app. I have used Reactjs (Nextjs) as the frontend and Firebase as the backend for this app. For authentication, I have used NextAuth. For Styling the app, I have used TailwindCSS. And finally for State Management: Recoil.
+
